@@ -115,7 +115,11 @@ Pour mettre en place et utiliser l'application de détection de casque/gilet de 
 
 <img width="1247" alt="Capture d'écran 2023-10-10 124819" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/83153786-367b-4d42-9edf-ff21462d235e">
 
-<img width="1248" alt="Capture d'écran 2023-10-10 124850" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/3603f16d-85cf-4064-9815-bd89e7c9831c">
+<img width="1248" alt="Capture d'écran 2023-10-12 125257" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/388bcbfc-94a8-4d47-b089-290b0045113f">
+
+<img width="1249" alt="Capture d'écran 2023-10-12 125326" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/dbdc7c15-99b8-467d-9bde-252b985a8337">
+
+<img width="1248" alt="Capture d'écran 2023-10-12 125257" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/51ed62d2-c321-4d02-aa20-412c4d14d89e">
 
 <img width="1247" alt="Capture d'écran 2023-10-10 124932" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/d17b78ed-7102-4caf-a0e3-d34609f0e5ac">
 
