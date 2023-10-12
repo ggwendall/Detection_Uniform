@@ -113,15 +113,16 @@ Pour mettre en place et utiliser l'application de détection de casque/gilet de 
 
 ## Captures d'écran
 
-<img width="1247" alt="Capture d'écran 2023-10-10 124819" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/83153786-367b-4d42-9edf-ff21462d235e">
+<img width="1247" alt="Capture d'écran 2023-10-10 124819" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/64d9a9f8-8b1e-444e-8919-dc94a0cc74d9">
 
-<img width="1248" alt="Capture d'écran 2023-10-12 125257" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/388bcbfc-94a8-4d47-b089-290b0045113f">
+<img width="1249" alt="Capture d'écran 2023-10-12 125326" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/14247185-9b74-4271-bfe2-fa793f5d1bf0">
 
-<img width="1249" alt="Capture d'écran 2023-10-12 125326" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/dbdc7c15-99b8-467d-9bde-252b985a8337">
+<img width="1248" alt="Capture d'écran 2023-10-12 125257" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/444ed3ae-c43e-4532-ae11-3e884ecbbb4a">
 
-<img width="1248" alt="Capture d'écran 2023-10-12 125257" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/51ed62d2-c321-4d02-aa20-412c4d14d89e">
+<img width="1248" alt="Capture d'écran 2023-10-12 125642" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/5c4f3db9-dbf3-4975-a45a-726defc6b0bb">
 
-<img width="1247" alt="Capture d'écran 2023-10-10 124932" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/d17b78ed-7102-4caf-a0e3-d34609f0e5ac">
+<img width="1249" alt="Capture d'écran 2023-10-12 125201" src="https://github.com/ggwendall/Detection_Uniform/assets/48108275/7be41356-82c5-4e7a-b435-104ccf3c0bec">
+
 
 ![image](https://github.com/ggwendall/ggwendall/assets/48108275/edb15cbf-f45a-472c-b934-44762886a231)
 
