@@ -32,9 +32,16 @@ def _display_detected_frames_guidelines(conf, model, st_frame, image, is_display
     org = (50, 50)
     font = cv2.FONT_HERSHEY_SIMPLEX
     fontScale = 1
-    color = (0, 0, 255) if safety_violation_detected and person_detected else (0, 255, 0)
+    if safety_violation_detected and person_detected:
+        color = (0, 0, 255)
+        text = 'Safety Guidelines not respected'
+    elif not safety_violation_detected and not person_detected:
+        color = (255,255,255)
+        text = 'No person detected'
+    else :
+        color = (0, 255, 0)
+        text = 'Safety Guidelines respected'
     thickness = 2
-    text = 'Safety Guidelines not respected' if safety_violation_detected and person_detected else 'Safety Guidelines respected'
     image = cv2.flip(image, 1)
     cv2.putText(image, text, org, font, fontScale, color, thickness)
     
@@ -48,6 +55,7 @@ def _display_detected_frames_labels(conf, model, st_frame, image, is_display_tra
 
     image = cv2.resize(image, (720, int(720*(3/4))))
     image = cv2.flip(image, 1)
+
     if is_display_tracking:
         res = model.track(image, conf=conf, persist=True)
     else:
